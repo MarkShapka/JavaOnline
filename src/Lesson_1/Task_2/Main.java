@@ -5,6 +5,6 @@ public class Main {
         Triangle triangle = new Triangle(2, 4, 5);
 
         System.out.println(triangle);
-        System.out.println("Square = " + triangle.area());
+        System.out.println("Area of the triangle = " + triangle.area());
     }
 }
